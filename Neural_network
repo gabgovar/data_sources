@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T17:20:03.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="V7q3b0eBD1_7qMWD5RSW" version="22.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-06T17:22:08.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="UVbSVIK271VdzHZva3yn" version="22.0.3" type="github">
   <diagram name="Página-1" id="o02ir2YU5ab_ktT9gmBU">
-    <mxGraphModel dx="4583" dy="1460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2357" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -895,7 +895,7 @@
         <mxCell id="LvDE3-ZYAiW9jcWsub64-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Hidden Layers&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-63.25" y="320" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LvDE3-ZYAiW9jcWsub64-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Output Layers&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="LvDE3-ZYAiW9jcWsub64-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Output Layer&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="116.75" y="454" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LvDE3-ZYAiW9jcWsub64-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Combustion Air Temperature (°C)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
