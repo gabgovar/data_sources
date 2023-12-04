@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T18:53:13.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" version="22.1.5" etag="VCzoxF_7GujnJW3PIyVS" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T19:12:17.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="cCkJbUm2kb6k7ZViwhbB" version="22.1.5" type="github">
   <diagram name="Página-1" id="ZyutccR1dliK55jMoOyO">
-    <mxGraphModel>
+    <mxGraphModel dx="2549" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EeoZRxMvzT711BqNi6FC-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="192.75" width="720" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="807.39" y="220.99" width="137.22" height="179.01" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="644.78" y="256" width="137.22" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EeoZRxMvzT711BqNi6FC-24" target="EeoZRxMvzT711BqNi6FC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="460" y="212" width="137.22" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="290" y="236" width="120" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EeoZRxMvzT711BqNi6FC-8" target="EeoZRxMvzT711BqNi6FC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-48" y="255" width="240" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://jhonathanribeiro.netlify.app/assets/img/mongodb.png;" vertex="1" parent="1">
+          <mxGeometry x="-28" y="256" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="192" y="305.31" as="sourcePoint" />
+            <mxPoint x="252" y="305.31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="305.5" as="sourcePoint" />
+            <mxPoint x="458" y="305.5333333333333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-7" value="Fonte de dados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="12" y="212" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="477.22" y="220" width="102.78" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.43;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EeoZRxMvzT711BqNi6FC-11" target="EeoZRxMvzT711BqNi6FC-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170762.png;" vertex="1" parent="1">
+          <mxGeometry x="650" y="264" width="132" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://horusinfo.com.br/wp-content/uploads/2017/05/IBM-DB2.png;" vertex="1" parent="1">
+          <mxGeometry x="820" y="230" width="112" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="253.25" width="240" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-17" value="Visualização" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_169958.png;" vertex="1" parent="1">
+          <mxGeometry x="1089" y="268" width="152" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-20" value="Dados internalizados via nifi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="310" y="306" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-21" value="Persistidos no dominio HIVE_T1C:&lt;br&gt;Somente 3 tabelas persistidas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="463.61" y="312.5" width="130" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-22" value="Tratamento dos dados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="651" y="330" width="130" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Apache-nifi-logo.svg/2560px-Apache-nifi-logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="306" y="253.25000000000006" width="84" height="35.49" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-29" value="Carga dos dados na sandbox do usuário impessoal&amp;nbsp;DB2I023A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="811" y="356" width="130" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="EeoZRxMvzT711BqNi6FC-30" value="ETL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="560" y="162.75" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
